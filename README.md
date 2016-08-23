@@ -3,6 +3,10 @@
 ![Drawing](http://i.imgur.com/N0K6XAb.jpg?1)
 > Sometimes the questions are complicated and the answers are simple. -[Dr. Seuss](https://en.wikipedia.org/wiki/Dr._Seuss)
 
+## Overview 
+
+We'll cover how to lay out the graphical user interface of your application. 
+
 ## Learning Objectives
 
 * Locate the Object Library in Xcode.
@@ -12,7 +16,7 @@
 * Explain that a **UIView** represents the rectangular area on the screen which manages all of the content that is placed within it.
 * Drag & drop a **Label** and a **Button** from the Object library onto the View.
 * Drag & drop a **Button** from the Object library onto the View.
-* Explain that the Attributes inspector is where they can edit attributes of the selected object.
+* Use  Attributes inspector is where they can edit attributes of the selected object.
 * Change the background color of the View.
 * Select their View Controller as being the "Initial View Controller" in the Attributes Inspector 
 
